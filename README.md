@@ -1,2 +1,2 @@
 # portfolio
-portfolio profesiona
+portfolio profesional
